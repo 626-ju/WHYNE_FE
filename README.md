@@ -55,7 +55,7 @@
 | 형상 관리     | Git                           |
 | 스타일링     | Tailwind 3.4 + shadcn/ui            |
 | 배포         | Vercel                       |
-| 라우팅       | React Router                  |
+| 라우팅       | Page Router                  |
 | 데이터 패칭   | axios                         |
 | 상태관리   | Zustand, TanStack Query                      |
 
